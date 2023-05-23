@@ -1,1 +1,0 @@
-marcas_digitadas = ['Acer','Asus','Dell', 'Lenovo', 'LG', 'Positivo', 'Samsung']
