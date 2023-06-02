@@ -9,3 +9,8 @@ def listar_sorteio(marca):
     cursor.execute(sql)
     linhas = cursor.fetchall()
     return linhas
+
+
+
+##balbalbalbalçatesst
+#learning git
